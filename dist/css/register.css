@@ -1,0 +1,178 @@
+.banner{
+    width: 432px;
+    height: 100%;
+}
+.banner1{
+    width: 432px;
+    height: 100%;
+    position: relative;
+}
+.banner1 img{
+    position: absolute;
+    display: none;
+}
+.banner1 img:nth-child(1){
+    display: block;
+}
+.main{
+    width: 432px;
+    position: absolute;
+    top: 150px;
+    left: 1000px;
+}
+.main1 p:nth-of-type(1){
+    font-size: 40px;
+    margin-bottom: 10px;
+    float: left;
+}
+.main1 p:nth-of-type(2){
+    font-size: 26px;
+    float: left;
+}
+.main1 span{
+    float: right;
+    font-size: 26px;
+    color: #359eff;
+}
+.main2 .inp1{
+    float: left;
+    width: 428px;
+    height: 45px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    border: 1px solid #aaaaaa;
+    padding-left: 15px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.main2 .inp2{
+    float: left;
+    width: 428px;
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid #aaaaaa;
+    padding-left: 15px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.main2 div select{
+    float: left;
+    width: 127px;
+    height: 46px;
+    margin-right: 20px;
+    border-radius: 5px;
+    border: 1px solid #aaaaaa;
+    padding-left: 15px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.main2 div .inp3{
+    float: left;
+    width: 281px;
+    height: 46px;
+    border-radius: 5px;
+    border: 1px solid #aaaaaa;
+    padding-left: 15px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.main2 div p{
+    float: left;
+    font-size: 12px;
+    color: #aaaaaa;
+}
+.main3{
+    float: left;
+    width: 428px;
+    height: 54px;
+    background: #3587ff;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 54px;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 40px;
+}
+.footer{
+    float: left;
+    margin-top: 40px;
+}
+.footer input{
+    float: left;
+    margin-top: 2px;
+    margin-right: 3px;
+}
+.footer1{
+    float: right;
+    width: 289px;
+}
+.footer1 div{
+    float: left;
+    margin: 15px 10px 0px 15px;
+    color: #666;
+}
+.footer1 div:nth-of-type(2){
+    margin-top: 26px;
+}
+.footer1 div:nth-of-type(3){
+    margin-top: 26px;
+}
+.footer2{
+    position: absolute;
+    left: 1070px;
+    bottom: 30px;
+    color: #999;
+}
+.div1{
+    float: left;
+    margin-top: 20px;
+    width: 428px;
+    height: 45px;
+}
+.div1 input{
+    float: left;
+    width: 127px;
+    height: 46px;
+    border-radius: 5px;
+    border: 1px solid #aaaaaa;
+    padding-left: 20px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.div1 div{
+    width: 281px;
+    height: 46px;
+    background: #3587ff;
+    float: left;
+    text-align: center;
+    line-height: 46px;
+    font-size: 16px;
+    margin-left: 20px;
+    border-radius: 5px;
+    color: #fff;
+}
+.div2{
+    position: absolute;
+    width: 200px;
+    top: 302px;
+    right: 266px;
+    color: red;
+    font-size: 14px;
+}
+.div3{
+    position: absolute;
+    width: 200px;
+    top: 375px;
+    right: 266px;
+    color: red;
+    font-size: 14px;
+}
+.num{
+    position: absolute;
+    width: 200px;
+    top: 450px;
+    right: 266px;
+    font-size: 14px;
+    color: red;
+}
